@@ -5,7 +5,7 @@ Utilise Lets Encrypt signed certs in Rundeck
 
 
 Usage:
-RUN THE EXECUTABLE FROM THE SSL DIRECTORY. eg /etc/rundeck/ssl
+RUN THE SCRIPT FROM THE SSL DIRECTORY. eg /etc/rundeck/ssl
 
     sudo create.sh mydomain.com
 
