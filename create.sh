@@ -22,3 +22,6 @@ keytool -importkeystore \
 	-srcstorepass admin \
 	-destkeystore keystore \
 	-alias  $1
+	
+cp keystore truststore
+# needed for CLI
